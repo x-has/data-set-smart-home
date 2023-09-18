@@ -1,2 +1,2 @@
 # data-set-smart-home
-dataset of smart home 
+After a lot of simulation on simulators, these are the best
